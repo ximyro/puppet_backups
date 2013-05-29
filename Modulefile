@@ -1,0 +1,5 @@
+name    'amazon-backup'
+version '0.0.1'
+source 'git@github.com:ximyro/puppet_backups.git'
+author 'ximyro'
+license 'GPL'
